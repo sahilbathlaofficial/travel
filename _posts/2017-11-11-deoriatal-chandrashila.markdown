@@ -51,4 +51,4 @@ After taking a break for about 30 minutes and clicking a lot of photos we starte
 <div style="width:100%;text-align:center"><iframe style="width:80%;height:50vh" src="https://www.youtube.com/embed/r7F1mCZ0v64" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 
 
-At around 10:30am we started our descend and reached back to the starting point around 12:15.We ran out of water during the ascend which was surely needed during this descend, so do carry ample water for yourself. After reaching back we headed to Rishikesh almost immediately an reach there around 6:30 pm after just stopping for lunch. From there we took a bus back to Delhi.
+At around 10:30am we started our descend and reached back to the starting point around 12:15.We ran out of water during the ascend which was surely needed during this descend, so do carry ample water for yourself. After reaching back we headed to Rishikesh almost immediately and reached there around 6:30 pm after just stopping for lunch. From there we took a bus back to Delhi.
