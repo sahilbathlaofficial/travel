@@ -26,7 +26,7 @@ At around 6:30 - 7:00am we began our journey from Haridwar to Sari Village which
 
 Here is the place from where you will be starting your 2.5km hike to Deoriatal.
 
-<div style="width:100%;text-align:center"><img src="/img/chandrashila/sari start.jpg" width="500" /></div>
+<div style="width:100%;text-align:center"><img src="/img/chandrashila/sari start.jpg" style="width:80%" /></div>
 
 The distance to top sure seems as an easy aspect but just a word of caution the whole 2.5km is a steep walk on a cemented pathway. So if you are not okay with it I suggest taking breaks in every 500 meters or whatever you are comfortable with. One of my friend Gaurav who was trekking for the first time gave up on the first 500 meters itself and went back to the starting point. The rest of us kept going & it took us about 1 hour to reach the top though and yes the lake/tal was beautiful.
 
@@ -38,17 +38,17 @@ We spent that day playing cards and talking about the possible snakes in that ar
 
 In the morning after heaving some light breakfast we headed for our trek from Chopta's base point to Tugnath Temple and eventually Chandrashila. This is where the trek officially starts:-
 
-<div style="width:100%;text-align:center"><img src="/img/chandrashila/chopta start.jpg" width="500" /></div><br>
+<div style="width:100%;text-align:center"><img src="/img/chandrashila/chopta start.jpg" style="width:80%" /></div><br>
 
 
 Again it was a steep cemented pathway (probably not as steep as Deoriatal) from Chopta to Tugnath which was about 4-5km. Gaurav decided to walk slow and just wanted to reach Tugnath and not Chandrashila. The rest of us reached the temple at around 9:00 - 9:15 am and here is how it looks like :-
 
-<div style="width:100%;text-align:center"><img src="/img/chandrashila/tugnath.jpg" width="500" /></div><br>
+<div style="width:100%;text-align:center"><img src="/img/chandrashila/tugnath.jpg" style="width:80%" /></div><br>
 
 
 After taking a break for about 30 minutes and clicking a lot of photos we started our last stretch of about 1.5km from Tugnath - Chandrashila top. The only difference was the path was not cemented and not so wide anymore so it was slightly difficult to ascend but we reached there on the top around 10:00 am (30 minutes from Tugnath). The views were pleasent to the eyes and the feeling of reaching a peak of a hill was just great. This is what I did after reaching the peak :-
 
-<div style="width:100%;text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/r7F1mCZ0v64" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
+<div style="width:100%;text-align:center"><iframe style="width:80%;height:50vh" src="https://www.youtube.com/embed/r7F1mCZ0v64" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></div>
 
 
 At around 10:30am we started our descend and reached back to the starting point around 12:15.We ran out of water during the ascend which was surely needed during this descend, so do carry ample water for yourself. After reaching back we headed to Rishikesh almost immediately an reach there around 6:30 pm after just stopping for lunch. From there we took a bus back to Delhi.
