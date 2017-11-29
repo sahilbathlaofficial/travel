@@ -36,7 +36,7 @@ We spent that day playing cards and talking about the possible snakes in that ar
 
 ### Day 2 (Chopta-Tugnath-Chandrashila-Chopta-Rishikesh)
 
-In the morning after heaving some light breakfast we headed for our trek from Chopta's base point to Tugnath Temple and eventually Chandrashila. This is where the trek officially starts:-
+In the morning after heaving some light breakfast we headed for our trek from Chopta's base point to Tugnath Temple and eventually Chandrashila at around 7 am. This is where the trek officially starts:-
 
 <div style="width:100%;text-align:center"><img src="/img/chandrashila/chopta start.jpg" style="width:80%" /></div><br>
 
