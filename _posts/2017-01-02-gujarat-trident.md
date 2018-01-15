@@ -81,7 +81,7 @@ Diu is also about 3hrs from Gir and best part of Diu was that it was a union ter
 
 Diu fort was just like any other fort in India but we did get some good pictures clicked there. Also I will remember it for a person who farted infront of my friend. We are probably going to remember it as Diu Fart rather then Diu Fort. Anyway here is a pic from the fort:-
 
-<div style="width:100%;text-align:center"><img src="/img/gujarat/diu_fort.jpg" style="width:80%" /></div>
+<div style="width:100%;text-align:center"><img src="/img/gujarat/fort_diu.jpg" style="width:80%" /></div>
 
 The main beach was not at all clean and the public sitting places were rather avoidable. But luckily near it was this cafe/restaurant **The Cats Eye Restaurant** which had decent food and we sat their most of the evening and then finally went back to our rooms and partied there. This is the view of entrance of the main beach :-
 
