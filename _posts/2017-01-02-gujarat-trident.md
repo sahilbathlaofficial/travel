@@ -40,11 +40,12 @@ Everything after this is just plain white sand and it’s the best place to get 
 </div>
 
 **Word of caution**:- Don't be too adventurous, if you go beyond a certain point you will find quicksand.
+
 After walking back, we had breakfast somewhere in the local market which turns into a festival in evening. I tried Dabeli here, something I had never had. We then we went on to checkin in our tents and slept till evening.
 
 The temperature was about (25 degree celsius) by then and it got more hotter as we approached noon. So I suggest bringing in all kind of clothes as temperature vary a lot between day & night in Kutch. 
 
-Evening was all about visiting the same place again, only difference was that there a lot of people around and place was all lit up. As it was getting cold we went back around 9pm, had our dinner and sat around the campfire where our caretakers arranged from some tradition Gujarati folk music.
+Evening was all about visiting the same place again, only difference was that there a lot of people around and place was all lit up. As it was getting cold we went back around 9pm, had our dinner and sat around the campfire. Our caretakers arranged for some tradition Gujarati folk music.
 
 ### Day 2 (Kutch-Kalo Dungar-Junagadh)
 
@@ -70,11 +71,13 @@ But we came here to witness bigger cats then that so we had the lunch in the res
 
 <div style="width:100%;text-align:center"><img src="/img/gujarat/gir_leopard.jpg" style="width:80%" /></div>
 
+**Pic Credits - <a href="https://www.instagram.com/chhavikhandelwal9/">Chhavi Khandelwal</a>**
+
 We were not impressed but that is the case with most of the safari's in India. Then we headed back to the resort where we cycled, played some video games in their gaming zone, had dinner & enjoyed some campfire and finally went to sleep.
 
 ### Day 4 (Diu)
 
-Diu is also about 3hrs from Gir and best part of Diu was that it was a union territory that lies just outside Gujarat. That meant no restriction on buying alcohol. We were imagining it a peaceful version of Goa but to be honest we were disappointed. The food we had at a restaurant ( I don't even remember the name ) was just the worst we had in Gujarat and yet most expensive.
+Diu is about 3hrs from Gir and best part of Diu was that it was a union territory that lies just outside Gujarat. That meant no restriction on buying alcohol. We were imagining it a peaceful version of Goa but to be honest we were disappointed. The food we had at a restaurant ( I don't even remember the name ) was just the worst we had in this trip and yet most expensive.
 
 Diu fort was just like any other fort in India but we did get some good pictures clicked there. Also I will remember it for a person who farted in front of my friend. We are probably going to remember it as Diu Fart rather than Diu Fort. Anyway here is a pic from the fort:-
 
@@ -84,7 +87,7 @@ The main beach was not at all clean and the public sitting places were rather av
 
 <div style="width:100%;text-align:center"><img src="/img/gujarat/nagoa_beach.jpg" style="width:80%" /></div>
 
-***Note:- We didn't try other beaches, my friends tell me they are beautiful, so maybe you can try them.***
+***Note:- We didn't try other beaches, my friends tell me they are beautiful. So if you plan on visiting Diu go look for them.***
 
 ### Day 5 (Ahmedabad)
 
