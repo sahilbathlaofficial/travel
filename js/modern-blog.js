@@ -56,6 +56,8 @@ var demo = (function(window, undefined) {
     _mapPolygons(pattern);
 
     _bindCards();
+
+    _loadCardFromUrl();
   };
 
   /**
@@ -117,6 +119,18 @@ var demo = (function(window, undefined) {
     });
   };
 
+  //Open card from url - Sahil
+  function _loadCardFromUrl() {
+    if (!window.location.hash) {
+      return;
+    }
+    var hash = '"' + window.location.hash + '"';
+    var $card = $('[data-slug=' + hash + ']');
+    if ($card.length) {
+      $card.find('.card__image').trigger('click');
+    }
+  }
+
   /**
    * Create a sequence for the open or close animation and play.
    * @param {boolean} isOpenClick Flag to detect when it's a click to open.
@@ -169,6 +183,8 @@ var demo = (function(window, undefined) {
 
     var selectedCard = layout[id].card;
 
+    //Extra Code - Sahil
+    window.location.hash = $(selectedCard._el).data('slug');
     for (var i in layout) {
 
       var card = layout[i].card;
