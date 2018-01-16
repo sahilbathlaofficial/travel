@@ -5,6 +5,7 @@ author: "Sahil Batla"
 avatar: "img/authors/sahil.jpg"
 image: "img/chandrashila/cover.jpeg"
 date:   2017-11-11 12:12:12
+slug: '#deoriatal-chandrashila'
 ---
 
 Are you looking for a weekend getaway from New Delhi, India and are looking for a trek that is not so strenuous but yet beautiful then this article might be worth your time. Now if you google Deoriatal Chandrashila Peak Trek you would find out that this trek is probably going to take your more than 3 days. But we did it in 2 days and that too without stressing it out and I am going to tell you how, so keep reading :)
