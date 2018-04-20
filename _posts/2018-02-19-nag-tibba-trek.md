@@ -8,30 +8,30 @@ date:   2018-02-19 14:12:27
 slug: '#nagtibba-trek'
 ---
 
-This is another great weekend trek one can do in North India (specially if you're from Delhi). I guess that is why I did it twice :D. Just a word of caution, It is not one of the beautiful trek and is a about a 10-12 hours overnight drive from Delhi so be prepared to trek in the following morning.
+This is another great weekend trek one can do in North India (specially if you're from Delhi). This is why I did it twice :D. Just a word of caution, It is not one of the most beautiful trek you will do and is about a 10-12 hours overnight drive from Delhi, so be prepared to trek in the following morning.
 
 ### Quick Synopsis
 
 *Trek Difficulty* - Easy to Moderate<br/>
 *Trek Duration* - 2 days<br/>
-*Trek Distance* - 8km Panthwari Village - Nag Tibba Summit<br/>
+*Trek Distance* - 8km From Panthwari Village - Nag Tibba Summit<br/>
 *Trek Beauty* - 2.5/5 stars<br/>
 
 ### Day 0 (Delhi - Panthwari Village)
 
-We booked a mini bus/traveller and did a overnight journey from Delhi. We left around 11pm in night and reached about 9 am in Panthwari Village which has 1 and most used out of the 3 possible routes to Nag Tibba Summit.
+We booked a mini bus/traveller and did a overnight journey from Delhi. We left around 11pm in night and reached about 9 am in Panthwari Village which has 1 (most used) out of the 3 possible routes to Nag Tibba Summit.
 
 ### Day 1 (Panthwari Village - Goat Village - 2.5km)
 
-After reaching there we all quickly freshened up and had breakfast at a shop near the start of the trail. Picture of the starting point -
+After reaching we all quickly freshened up and had breakfast at a shop near the start of the trail. Picture of the starting point is here -
 
 <div style="width:100%;text-align:center"><img src="/img/nagtibba/start.jpg" style="width:80%" /></div>
 
-We headed out at around 10:00 am and were expecting to reach our campsite in 4-5 hours. As I had done this trek previously I was expecting the camp site to be same as last time. It was near the Nag Tibba temple which was about 2km before the summit. But to my amaze we only treked for about 2-2:30 hours and reached our campsite at about 12:30 am. The terrain was mainly rocky. A motorable alternative was there for about an hour or so of our ascend. I remember passing at least 4-5 roads vertically.
+We headed out at around 10:00 am and were expecting to reach our campsite in 4-5 hours. As I had done this trek previously I was expecting the camp site to be same as last time. It was near the Nag Tibba temple which was about 2km before the summit. But to my amaze we only treked for about 2-2:30 hours and reached our camp site at about 12:30 am. The terrain was mainly rocky. A motorable alternative was there for about an hour or so. I remember passing at least 4-5 roads vertically.
 
 The camp site was just before the goat village. The distance covered was only about 2.5km. The guide we hired suggested that there is snow near the temple so we can't camp there and also that doing summit won't be possible due to melting snow that is covering the trail. A bit disappointed by this news we accepted it
 
-We had lunch that was prepared by our guides and then went on to sleep in afternoon. In evening we were served with tea & pakoras and was followed by dinner which even had chicken in the menu. It was certainly feeeling more of picnic instead of a trek at this point. We all did some stargazing in the night before calling it a day. This is how our lunch table near camp site looked like -
+We had lunch that was prepared by our guides and then went on to sleep in afternoon. In evening we were served with tea & pakoras and was followed by campfire and dinner which even had chicken in the menu. It was certainly feeeling more of picnic instead of a trek at this point. We all did some stargazing in the night before calling it a day. This is how our lunch table near camp site looked like -
 
 <div style="width:100%;text-align:center"><img src="/img/nagtibba/camp_site_lunch.jpg" style="width:80%" /></div>
 
