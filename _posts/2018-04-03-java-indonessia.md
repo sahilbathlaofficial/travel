@@ -62,7 +62,7 @@ The uphill climb to the crater included some rocky patches & stairs before you e
 
 <div style="width:100%;text-align:center"><img src="/img/java/crater1.jpg" style="width:80%" /></div>
 
-<div style="width:100%;text-align:center"><img src="/img/java/crater2.jpg" style="width:80%" /></div>
+<div style="width:100%;text-align:center"><img src="/img/java/crater_2.jpg" style="width:80%" /></div>
 
 Then we headed back to our hotel, had breakfast and some rest before starting our journey to Malang which was another 6-7 hours drive from Bromo. We spent most of that time playing <a href="https://play.google.com/store/apps/details?id=com.wb.goog.ellen.psych&hl=en_IN">Psych</a> and trust me it is fun. We reached Malang at about 7pm and checked in to our hotel. We then planned what to do the following day as waterfall seemed boring and cliche. Out options were rafting, zoo, paragliding & waterfall so we stuck to waterfall only in the end and I am glad we did that.
 
