@@ -87,6 +87,9 @@ We did take some good pictures, and here is the full gang -
 After having breakfast we started our descent to Kasol.The rain was pretty heavy and made it very difficult to trek down as everyone was slipping a lot.
 We did take a different route back to Kasol which was more scenic with views of Ganga River in form of Kheer(White Milk) and a beautiful waterfall.
 
+We were able to trek down in about 4.5 hours but had to wait for atleast 90 more minutes for others to catch up. What actually happened was that 2 guys decided to take a break and grab some tea while others just waited and waited for them to catch up. The girls in those who were waiting started crying assuming something bad happened as it was raining pretty heavily as the whole path was more slippery than a butter in a frying pan.
+Fortunately nothing happened and the incident ended with everyone making a good laugh about it.
+
 Here is a picture of that -
 
 <div style="width:100%;text-align:center"><img src="/img/kheerganga/river.jpg" style="width:80%"></div>
