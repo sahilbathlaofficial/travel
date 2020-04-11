@@ -74,6 +74,8 @@ The downhill was smooth and we managed to get down within 3 hours I suppose. We 
 
 <div style="width:100%;text-align:center"><img src="/img/triund/amisha-pets-dog.jpg" style="width:80%" /></div>
 
-After picking our bags, we did stop for dinner at the famous <strong>Tibet Kitchen</strong> in McLeodganj. The experience was a mix of good and bad but definitely I am not trying their Thukpa again. One funny incident that made us laugh was when one of our pure vegetarian friends tried a dessert (brownie I suppose) which had eggs. I bet she ain't going to try brownies either. After that, we had the worst Dimsums in the history of Dimsums right outside Tibet Kitchen.
+After picking our bags, another funny incident happened as a guy from our group used the restroom to dump out all he had in the past 2 days, apparently it did not go down too well (like literally) as when the next person went in to use the restroom the smell was worse, even worse compared to that of a dead body. Till date we can't stop making fun of that incident.
+
+For dinner we went to the famous <strong>Tibet Kitchen</strong> in McLeodganj. The experience was a mix of good and bad but definitely I am not trying their Thukpa again. One funny incident that made us laugh was when one of our pure vegetarian friends tried a dessert (brownie I suppose) which had eggs. I bet she ain't going to try brownies either. After that, we had the worst Dimsums in the history of Dimsums right outside Tibet Kitchen.
 
 And that was it, we boarded our bus and started our journey back home :)
