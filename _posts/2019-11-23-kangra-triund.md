@@ -45,7 +45,7 @@ This trek is relatively easy, no wonder this is one of the treks loved by beginn
 It took us about 5hrs to reach the top, but we took too many breaks, I think it is easily doable in 3-4 hrs even if you are not a professional.
 
 After getting a lot of pictures on the top, we finally were ready to check in to our camps but the weather started to drop real quick as the sun went down, we were offered a room in the guesthouse to rest while are camps were being made ready. Having found the comfort and warmth in the guesthouse we requested to stay in the room instead of trying our luck with camping(FYI - it was team call, I would have still preferred tents).
-Few of the group members got too comfortable and just slept like there was no tomorrow.
+Few of the group members got too comfortable and just slept like there was no tomorrow. Others were showing their talents, one showed her flexibility as she moved her body from one side to other of a circle she made out of her hands while keeping keeping interlocked.
 
 Before dinner got served one of our friends took the opportunity to mingle with an Australian group who was also out there camping on the same premises. She is a hoot and got all of them to try some Punjabi dance. Here is a video of her getting them to grove -  
 
